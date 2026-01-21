@@ -1,1 +1,1 @@
-# calculator
+# calculator for basic operations
